@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AACI,QADI,CACJ,UAAU,CAAA;EACN,UAAU,EAAE,KAAK;CACpB;;AAHL,AAII,QAJI,CAIJ,GAAG,CAAA;EACC,KAAK,EAAE,IAAI;CACd;;AANL,AAOI,QAPI,CAOJ,OAAO,CAAA;EACH,KAAK,EAAE,IAAI;CACd;;AATL,AAWI,QAXI,CAWJ,EAAE,CAAA;EACE,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EACjB,WAAW,EAAE,oBAAoB;CACpC",
-    "sources": [
-        "aboutme.scss"
-    ],
-    "names": [],
-    "file": "aboutme.css"
-}
